@@ -20,8 +20,9 @@ set-default-source jack_in
 @audio - memlock unlimited  # maximum locked-in-memory address space (KB)
 #Create a shortcut.desktop file and copy it to .config/autostart folder
 sudo cp cadence.desktop $HOME/.config/autostart/
-#Configure Cadence
+```
 
+Configure Cadence:
 Step1:
 ![](cadence-step1.jpg)
 Step2:
@@ -32,7 +33,7 @@ Step:3
 Enjoy.
 
 
-```
+
 
 ## Meta
 
