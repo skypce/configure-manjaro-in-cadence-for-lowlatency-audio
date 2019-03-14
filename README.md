@@ -24,11 +24,11 @@ sudo cp cadence.desktop $HOME/.config/autostart/
 
 Configure Cadence:
 Step1:
-![](cadence-step1.jpg)
+![](cadence-step-1.jpg)
 Step2:
-![](cadence-step2.jpg)
+![](cadence-step-2.jpg)
 Step:3
-![](cadence-step3.jpg)
+![](cadence-step-3.jpg)
 
 Enjoy.
 
